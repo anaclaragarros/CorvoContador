@@ -1,2 +1,2 @@
 # CorvoContador
-Corvo contador em c#
+Codigo de exercicio chamado de Corvo contador em c#
